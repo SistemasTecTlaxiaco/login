@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|c:\\users\\hp elite\\downloads\\sistema_usuarios_csharp-mysql_2\\sistema\\sistema\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\sistema\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E2A5D07-1549-4067-856C-D497B8B939CF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Control.cs",
+              "RelativeDocumentMoniker": "Sistema\\Control.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Control.cs",
+              "RelativeToolTip": "Sistema\\Control.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:46:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:46:25.958Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:46:32.043Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmLogin.cs",
+              "RelativeToolTip": "Sistema\\frmLogin.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:31:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Form1.cs",
+              "RelativeToolTip": "Sistema\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:35:44.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\Conexion.cs",
+              "RelativeToolTip": "Sistema\\Conexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:46:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Hp ELITE\\Downloads\\Sistema_usuarios_CSharp-MySQL_2\\Sistema\\Sistema\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:46:34.225Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

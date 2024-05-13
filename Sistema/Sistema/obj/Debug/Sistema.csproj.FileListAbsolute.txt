@@ -1,0 +1,17 @@
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\System.Memory.dll
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.frmRegistro.resources
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.frmLogin.resources
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.csproj.Up2Date
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Hp ELITE\Downloads\Sistema_usuarios_CSharp-MySQL_2\Sistema\Sistema\obj\Debug\Sistema.pdb
